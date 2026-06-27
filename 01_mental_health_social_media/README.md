@@ -5,7 +5,7 @@
 
 ---
 
-## 📖 Overview
+## Overview
 
 Mental health has become one of the most important public health concerns among young adults. At the same time, social media has become an integral part of students' daily lives, raising questions about its potential impact on psychological well-being.
 
@@ -15,7 +15,7 @@ Rather than relying on a single analytical technique, the project follows a comp
 
 ---
 
-## 🎯 Research Objectives
+## Research Objectives
 
 The project aims to answer the following questions:
 
@@ -27,7 +27,7 @@ The project aims to answer the following questions:
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 **Source**
 
@@ -52,7 +52,7 @@ The dataset consists of anonymous survey responses describing students' lifestyl
 
 ---
 
-## 🔍 Analytical Workflow
+## Analytical Workflow
 
 The project is divided into three consecutive stages.
 
@@ -103,7 +103,7 @@ The modeling process includes:
 
 ---
 
-## 📈 Key Findings
+## Key Findings
 
 The analysis revealed several important insights.
 
@@ -115,34 +115,13 @@ The analysis revealed several important insights.
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
-### Programming
-
-- Python
-- Jupyter Notebook
-
-### Data Analysis
-
-- pandas
-- NumPy
-
-### Visualization
-
-- Matplotlib
-- Seaborn
-
-### Statistical Analysis
-
-- SciPy
-
-### Machine Learning
-
-- scikit-learn
+Python, Jupyter Notebook, pandas, NumPy, Matplotlib, Seaborn, SciPy, scikit-learn
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository.
 2. Install the required dependencies.
@@ -159,8 +138,7 @@ pip install -r requirements.txt
 
 ---
 
-## 💡 Skills Demonstrated
-
+## Skills Demonstrated
 - Exploratory Data Analysis
 - Data Cleaning
 - Data Visualization
@@ -171,27 +149,3 @@ pip install -r requirements.txt
 - Model Evaluation
 - Business-Oriented Interpretation
 - Scientific Reporting
-
----
-
-## ⚠️ Limitations
-
-Several limitations should be considered when interpreting the results.
-
-- The data are observational and cross-sectional.
-- Mental health scores are self-reported.
-- Statistical associations should not be interpreted as causal relationships.
-- Additional behavioral and environmental factors may influence mental health but are not represented in the dataset.
-
----
-
-## 📌 Future Improvements
-
-Possible extensions of this work include:
-
-- Non-linear regression models
-- Classification approaches
-- Feature engineering
-- Cross-validation
-- Model explainability (SHAP)
-- Time-series analysis using longitudinal data
